@@ -7,6 +7,17 @@ body {
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: 25px;
 
-    background: rgb(43, 44, 44);
-    color: rgb(255, 255, 255);
+    background: rgb(170, 20, 20);
+    color: rgb(70, 170, 25);
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: rgb(70, 170, 25);
+    color: rgb(170, 20, 20);
+    border: none;
+    border-radius: 5px;
 }
