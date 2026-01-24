@@ -1,3 +1,4 @@
+var audio = new Audio('music/Music.mp3');
 function Start_Music() {        
-    alert("Hello, World!");    
+    audio.play();
 }
